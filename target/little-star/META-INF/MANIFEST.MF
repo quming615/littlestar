@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: little-star Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: qumin
+Implementation-BuildNumber: 1.0-SNAPSHOT
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_121
+
